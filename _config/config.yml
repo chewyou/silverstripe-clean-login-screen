@@ -1,5 +1,5 @@
 ---
-Name: login-screen
+Name: clean-login-screen
 ---
 SilverStripe\Security\Security:
   template_main: LoginSplash
