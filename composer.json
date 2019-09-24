@@ -1,5 +1,5 @@
 {
-    "name": "chewyou/clean-login-screen",
+    "name": "chewyou/silverstripe-clean-login-screen",
     "description": "Clean login screen",
     "minimum-stability": "dev",
     "prefer-stable": true,
