@@ -6,7 +6,7 @@
     "type": "silverstripe-vendormodule",
     "autoload": {
         "psr-4": {
-            "Education\\LoginScreen\\": "src/"
+            "Chewyou\\LoginScreen\\": "src/"
         }
     },
     "extra": {
