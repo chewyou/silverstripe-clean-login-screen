@@ -1,0 +1,9 @@
+---
+Name: login-screen
+---
+SilverStripe\Security\Security:
+  template_main: LoginSplash
+
+SilverStripe\Control\Controller:
+  extensions:
+   - Chewyou\LoginScreen\Extension\ControllerExtension
