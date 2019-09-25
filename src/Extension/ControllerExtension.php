@@ -12,7 +12,7 @@ class ControllerExtension extends Extension
     {
         Requirements::clear();
 
-        Requirements::javascript('chewyou/login-screen:client/js/main.js');
-        Requirements::css('chewyou/login-screen:client/css/main.css');
+        Requirements::javascript('chewyou/silverstripe-clean-login-screen:client/js/main.js');
+        Requirements::css('chewyou/silverstripe-clean-login-screen:client/css/main.css');
     }
 }
