@@ -12,6 +12,7 @@ class ControllerExtension extends Extension
     {
         Requirements::clear();
 
-        // TODO
+        Requirements::javascript('chewyou/login-screen:client/js/main.js');
+        Requirements::css('chewyou/login-screen:client/css/main.css');
     }
 }
