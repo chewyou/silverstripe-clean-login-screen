@@ -3,11 +3,7 @@
     "description": "Clean login screen",
     "keywords": [
         "silverstripe",
-        "assets",
-        "aws",
-        "s3",
-        "bucket",
-        "backup"
+        "login",
     ],
     "homepage": "https://github.com/chewyou/silverstripe-node-tree-dropdown",
     "authors": [
