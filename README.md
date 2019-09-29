@@ -6,8 +6,8 @@
 A small module to change the look of the same old login screen. Provides a clean and consistent login screen
 
 ## Requirements 
-- SilverStripe 4+
-- PHP 7+
+* SilverStripe 4+
+* PHP 7+
 
 ## Installation
 ### Composer
